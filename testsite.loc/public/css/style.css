@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Open+Sans&family=Tangerine:wght@700&display=swap');
+.logo{
+    font-size: 25px;
+}
+
+#caption{
+    font-family: 'Dancing Script', cursive;
+
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Tangerine', cursive;
+}
+.enter-botton{
+    background: coral;
+}
+
+th{
+    background: white;
+}
+
+td{
+    width: 50%;
+}
+
+#scale{
+    transition: 1s;
+}
+
+#scale:hover{
+    transform: scale(1.1);
+}
+.scroll_btn{
+    position: fixed;
+    right: 30px;
+    bottom: 10px;
+    padding: 0;
+}
+
+.btn_scroll{
+    width:43px;
+    height: 43px;
+    color: white;
+    background: black;
+    background-color: black;
+    opacity: .3;
+    border-radius: 7px;
+    cursor: pointer;
+    display: none;
+}
+
+.btn_scroll:active{
+    background: black;
+    opacity: 1;
+}
+
+
+
+
+
+
+
